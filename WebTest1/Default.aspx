@@ -15,6 +15,8 @@
         <asp:Button ID="Button1" runat="server" Text="SQL" OnClick="btn_Sql_Click" />
          &nbsp;&nbsp;&nbsp;
         <asp:Button ID="Button2" runat="server" Text="SQL" OnClick="btn_Sql_Click" />
+        &nbsp;&nbsp;&nbsp;
+        <asp:Button ID="Button3" runat="server" Text="SQL" OnClick="btn_Sql_Click" />
     </div>
     <div>
     </div>
