@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebTest1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.0.185</Value>
+    </Setting>
+    <Setting Name="SQLID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="SQLPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Siemens123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
